@@ -18,3 +18,9 @@ The **Blood Donor App** is a Flutter-based mobile application designed to connec
 - Request blood donations
 - Clean and user-friendly UI
 - Future-ready for integration with real-time databases and notifications
+
+## ▶️ How to Run the Project
+
+1. **Clone the repository**
+   ```bash
+   git clone 
