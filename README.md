@@ -1,4 +1,4 @@
-# yug_name_sectionB_BloodDonorApp
+# yug_verma_sectionB_BloodDonorApp
 
 # Blood Donor App
 
