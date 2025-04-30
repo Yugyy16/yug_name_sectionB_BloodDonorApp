@@ -23,4 +23,8 @@ The **Blood Donor App** is a Flutter-based mobile application designed to connec
 
 1. **Clone the repository**
    ```bash
-   git clone 
+   git clone https://github.com/Yugyy16/yug_name_sectionB_BloodDonorApp.git
+
+   flutter pub get
+   flutter run
+
